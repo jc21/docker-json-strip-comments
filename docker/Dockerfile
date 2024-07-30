@@ -1,4 +1,4 @@
-FROM centos:7
+FROM rockylinux:9
 
 LABEL maintainer="Jamie Curnow <jc@jc21.com>"
 
